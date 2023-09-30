@@ -1,0 +1,146 @@
+[
+   {
+      "id":1,
+      "firstName":"Terry",
+      "lastName":"Medhurst",
+      "age":50,
+      "gender":"male",
+      "email":"atuny0@sohu.com",
+      "phone":"+63 791 675 8914",
+      "birthDate":"2000-12-25",
+      "company":{
+         "department":"Marketing",
+         "name":"Blanda-O'Keefe",
+         "title":"Help Desk Operator"
+      }
+   },
+   {
+      "id":2,
+      "firstName":"Sheldon",
+      "lastName":"Quigley",
+      "age":28,
+      "gender":"male",
+      "email":"hbingley1@plala.or.jp",
+      "phone":"+7 813 117 7139",
+      "birthDate":"2003-08-02",
+      "company":{
+         "department":"Services",
+         "name":"Aufderhar-Cronin",
+         "title":"Senior Cost Accountant"
+      }
+   },
+   {
+      "id":3,
+      "firstName":"Terrill",
+      "lastName":"Hills",
+      "age":38,
+      "gender":"male",
+      "email":"rshawe2@51.la",
+      "phone":"+63 739 292 7942",
+      "birthDate":"1992-12-30",
+      "company":{
+         "department":"Marketing",
+         "name":"Lindgren LLC",
+         "title":"Mechanical Systems Engineer"
+      }
+   },
+   {
+      "id":4,
+      "firstName":"Miles",
+      "lastName":"Cummerata",
+      "age":49,
+      "gender":"male",
+      "email":"yraigatt3@nature.com",
+      "phone":"+86 461 145 4186",
+      "birthDate":"1969-01-16",
+      "company":{
+         "department":"Business Development",
+         "name":"Wolff and Sons",
+         "title":"Paralegal"
+      }
+   },
+   {
+      "id":5,
+      "firstName":"Mavis",
+      "lastName":"Schultz",
+      "age":38,
+      "gender":"male",
+      "email":"kmeus4@upenn.edu",
+      "phone":"+372 285 771 1911",
+      "birthDate":"1968-11-03",
+      "company":{
+         "department":"Support",
+         "name":"Adams Inc",
+         "title":"Web Developer I"
+      }
+   },
+   {
+      "id":6,
+      "firstName":"Griffin",
+      "lastName":"Braun",
+      "age":35,
+      "gender":"male",
+      "email":"lgronaverp@cornell.edu",
+      "phone":"+62 511 790 0161",
+      "birthDate":"1965-09-06",
+      "macAddress":"34:06:26:95:37:D6",
+      "university":"Universitas Bojonegoro",
+      "bank":{
+         "cardExpire":"07/24",
+         "cardNumber":"3587188969123346",
+         "cardType":"jcb",
+         "currency":"Rupiah",
+         "iban":"AD24 9240 6903 OD2X OW1Y WD1K"
+      },
+      "company":{
+         "department":"Engineering",
+         "name":"Boyle, Boyer and Lang",
+         "title":"Senior Cost Accountant"
+      }
+   },
+   {
+      "id":7,
+      "firstName":"Piper",
+      "lastName":"Schowalter",
+      "age":47,
+      "gender":"female",
+      "email":"fokillq@amazon.co.jp",
+      "phone":"+60 785 960 7918",
+      "birthDate":"1983-06-07",
+      "company":{
+         "department":"Human Resources",
+         "name":"O'Hara and Sons",
+         "title":"Sales Representative"
+      }
+   },
+   {
+      "id":8,
+      "firstName":"Kody",
+      "lastName":"Terry",
+      "age":28,
+      "gender":"male",
+      "email":"xisherwoodr@ask.com",
+      "phone":"+81 859 545 8951",
+      "birthDate":"1979-01-09",
+      "company":{
+         "department":"Support",
+         "name":"Leffler, Beatty and Kilback",
+         "title":"Recruiting Manager"
+      }
+   },
+   {
+      "id":9,
+      "firstName":"Macy",
+      "lastName":"Greenfelder",
+      "age":45,
+      "gender":"female",
+      "email":"jissetts@hostgator.com",
+      "phone":"+81 915 649 2384",
+      "birthDate":"1976-09-07",
+      "company":{
+         "department":"Product Management",
+         "name":"Bruen and Sons",
+         "title":"Structural Analysis Engineer"
+      }
+   }
+]
